@@ -19,5 +19,5 @@ chef_version '>= 12.1' if respond_to?(:chef_version)
 #
 # source_url 'https://github.com/<insert_org_here>/node-server'
 
-depends 'nodejs', '~> 4.0.0'
-depends 'pm2', '~> 0.7.4'
+# depends 'nodejs', '~> 4.0.0'
+# depends 'pm2', '~> 0.7.4'
