@@ -1,5 +1,5 @@
 
-apt_update
+apt_update 'update'
 
 package 'nginx'
 package 'nginx-core'
